@@ -34,13 +34,28 @@ I'm a 20 years old dev</h3>
 
 </div>
 
-<h2>Right now, those project are my most favorite :</h2>
+<h2>Check out those projects :</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-![CLipet Leo's Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=CLipet-Leo&repo=ProjetDirectX&theme=tokyonight&hide_border=true&bg_color=60,000000,00008B)
-![CLipet Leo's Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=CLipet-Leo&repo=BigSwordRPG&theme=tokyonight&hide_border=true&bg_color=60,000000,00008B)
-![CLipet Leo's Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=CLipet-Leo&repo=MiniStudio&theme=tokyonight&hide_border=true&bg_color=60,000000,00008B)
-![CLipet Leo's Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=CLipet-Leo&repo=DemineurC&theme=tokyonight&hide_border=true&bg_color=60,000000,00008B)
+<a src="https://github.com/CLipet-Leo/ProjetDirectX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CLipet-Leo&repo=ProjetDirectX&theme=tokyonight&hide_border=true&bg_color=60,000000,00008B" alt="Best repository"></img>
+</a>
+
+<a src="https://github.com/CLipet-Leo/BigSwordRPG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CLipet-Leo&repo=BigSwordRPG&theme=tokyonight&hide_border=true&bg_color=60,000000,00008B" alt="Best repository"></img>
+</a>
+
+<a src="https://github.com/CLipet-Leo/Morpion_4_octets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CLipet-Leo&repo=Morpion_4_octets&theme=tokyonight&hide_border=true&bg_color=60,000000,00008B" alt="Best repository"></img>
+</a>
+
+<a src="https://github.com/CLipet-Leo/Nonsense-Knight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CLipet-Leo&repo=Nonsense-Knight&theme=tokyonight&hide_border=true&bg_color=60,000000,00008B" alt="Best repository"></img>
+</a>
+
+<a style="font-size: 1.2rem; background-image: linear-gradient(to right, #BC167CFF, #2961BCFF); color: transparent; background-clip: text;" src="https://nadk2-devinci.github.io/">
+    A project on the 3DVerse online engine for the NADK compagny
+</a>
 
 </div>
 
